@@ -161,3 +161,7 @@ cython_debug/
 
 # macOS junk
 .DS_Store
+
+# Ignore intermediate .html and .md files.
+*.html
+*.md
